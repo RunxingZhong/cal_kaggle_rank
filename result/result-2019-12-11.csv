@@ -16,7 +16,7 @@ kaggle-give_me,hdfs,success,0.8689399999999999,0.8628100000000001,1.0,6054.96324
 kaggle-grocery_sales,hdfs,failed,,,,
 kaggle-grupo_bimbo,hdfs,failed,,,,
 kaggle-home_credit,hdfs,success,0.77693,0.77695,51.0,33160.654663324356
-kaggle-homesite_quote,hdfs,failed,,,,
+kaggle-homesite_quote,hdfs,success,0.9691299999999999,0.9693299999999999,17.0,164126.62316942215
 kaggle-house_prices,hdfs,success,,0.12649000000000002,1.0,19118.108629465103
 kaggle-how_rain,hdfs,failed,,,,
 kaggle-ieee,hdfs,success,0.8748950000000001,0.9140280000000001,51.0,127815.80244398117
