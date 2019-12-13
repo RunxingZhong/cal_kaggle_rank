@@ -106,8 +106,10 @@ if __name__ == '__main__':
         'talkingdata-adtracking-fraud-detection',
         'rossmann-store-sales'
             ]
-    
-    for competition_name in names[6:]:
+    names = ['santander-value-prediction-challenge']
+ 
+
+    for competition_name in names:
         url = f'https://www.kaggle.com/c/{competition_name}/leaderboard'
         print(f'processing {competition_name}: {url}')
         competition_id = get_competition_id(url)

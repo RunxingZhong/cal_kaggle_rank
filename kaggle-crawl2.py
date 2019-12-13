@@ -121,7 +121,8 @@ if __name__ == '__main__':
         # 'rossmann-store-sales',
         # 'bioresponse',
         # 'facebook-recruiting-iv-human-or-bot',
-        'kdd-cup-2014-predicting-excitement-at-donors-choose'
+        # 'kdd-cup-2014-predicting-excitement-at-donors-choose'
+        'santander-value-prediction-challenge',
     ]
     # urls = [
     #         'https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/leaderboard',
